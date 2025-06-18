@@ -1,0 +1,34 @@
+/* category4 */
+.header4 {
+  text-align: center;
+  align-content: center;
+  height: 70vh;
+  background-color: rgb(24, 131, 202);
+  color: white;
+}
+
+.header4 p {
+  margin-bottom: 3em;
+  line-height: 40px;
+  font-size: 23px;
+}
+.header4 h3 {
+  font-size: 30px;
+  margin-bottom: 3em;
+  font-weight: 500;
+}
+.header4 button {
+  width: 10em;
+  padding: 14px 0;
+  background-color: rgb(24, 131, 202);
+  border: ridge 1px;
+  border-radius: 30px;
+  color: white;
+  font-size: 18px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.header4 button:hover {
+  color: rgb(24, 131, 202);
+  background-color: white;
+}
