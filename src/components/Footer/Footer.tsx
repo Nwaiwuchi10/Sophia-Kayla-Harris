@@ -3,7 +3,7 @@ import "./Footer.css";
 import { FaEnvelope, FaWhatsapp } from "react-icons/fa";
 
 const Footer: React.FC = () => {
-  const phoneNumber = "+19125536855";
+  const phoneNumber = "+12402002516";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");

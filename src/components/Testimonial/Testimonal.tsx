@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import img from "../../assets/image (5)-Picsart-AiImageEnhancer.webp";
-import img1 from "../../assets/image (1).webp";
-import img2 from "../../assets/image (2).webp";
-import img3 from "../../assets/image (3).webp";
+import img from "../../assets/test1.jpg";
+import img1 from "../../assets/test2.jpg";
+import img2 from "../../assets/test3.jpg";
+import img3 from "../../assets/test4.avif";
 import "./Testimonial.css";
 
 type Testimonial = {
@@ -32,7 +32,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 3,
-    name: "Rachel Lee",
+    name: "Elizabeth Phil",
     content:
       "Sophia Kayla Harris's advice has given me complete confidence in my financial future. She helped me create a diversified portfolio and provided smart tax-saving strategies.",
     image: img2,
@@ -40,7 +40,7 @@ const testimonials: Testimonial[] = [
   },
   {
     id: 4,
-    name: "David Kim",
+    name: "Maria Kim",
     content:
       "Sophia Kayla Harris's depth of knowledge in wealth management is unmatched. Her guidance has been pivotal in helping me grow and safeguard my investments.",
     image: img3,

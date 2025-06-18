@@ -31,7 +31,7 @@ const ContactMe: React.FC = () => {
   const handleSubmit = (e: any) => {
     e.preventDefault();
 
-    const whatsappNumber = "+16623721617"; // No '+' for wa.me links
+    const whatsappNumber = "+12402002516"; // No '+' for wa.me links
     const textMessage = `Hello, I am ${formData.firstName} ${formData.lastName}. My email is ${formData.email}, and my phone number is ${formData.phoneNumber}. I would like to talk about ${formData.topic}. Here's my message: ${formData.message}`;
 
     const whatsappURL = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(

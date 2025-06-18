@@ -1,6 +1,6 @@
 import "./BrokerDetails.css";
 const BrokerDetails = () => {
-  const phoneNumber = "+19125536855";
+  const phoneNumber = "+12402002516";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
@@ -77,7 +77,7 @@ const BrokerDetails = () => {
         </div>
         <div className="textContact">
           <p>
-            Ready to start a conversation? Contact Freya Aurora Camila today.
+            Ready to start a conversation? Contact Sophia Kayla Harris today.
           </p>
           <button onClick={WhatsappClick}>Contact Me</button>
         </div>

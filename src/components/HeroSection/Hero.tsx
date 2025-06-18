@@ -8,7 +8,7 @@ import whatsapp from "../../assets/whatsapp.png";
 const images = [img1, img2, img3];
 
 const HeroSection: React.FC = () => {
-  const phoneNumber = "+19125536855";
+  const phoneNumber = "+12402002516";
   const WhatsappClick = () => {
     const url = `https://wa.me/${phoneNumber}`;
     window.open(url, "_blank");
@@ -38,10 +38,10 @@ const HeroSection: React.FC = () => {
       <div className="hero-content">
         <h1>Sophia Kayla Harris</h1>
         <p className="esp-p">
-          is an investment advisor with over 15 years of experience, dealing and
-          investing in crypto currency and other related financial markets. She
-          is a very professional stock broker who executes financial
-          transactions to registered securities broker.
+          is a seasoned investment advisor with over 15 years of experience in
+          cryptocurrency and other financial markets. She is a highly
+          professional stockbroker, skilled in executing financial transactions
+          through registered securities brokers.
         </p>
         <p>
           <a href="mailto:sophiakaylaharris@gmail.com">
@@ -50,7 +50,7 @@ const HeroSection: React.FC = () => {
         </p>
         <p>
           <span>Direct:</span>
-          <span>(+19125536855) </span>
+          <span>(+12402002516) </span>
         </p>
 
         <button onClick={WhatsappClick}>Get Started</button>
