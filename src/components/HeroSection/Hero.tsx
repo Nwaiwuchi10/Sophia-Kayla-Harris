@@ -38,7 +38,7 @@ const HeroSection: React.FC = () => {
       <div className="hero-content">
         <h1>Sophia Kayla Harris</h1>
         <p className="esp-p">
-          is a seasoned investment advisor with over 15 years of experience in
+          is a seasoned investment advisor with over 19 years of experience in
           cryptocurrency and other financial markets. She is a highly
           professional stockbroker, skilled in executing financial transactions
           through registered securities brokers.
