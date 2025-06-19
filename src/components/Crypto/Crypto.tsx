@@ -71,12 +71,12 @@ const Crypto = () => {
                   TRENDS FOR PROFITABILITY
                 </h2>
                 <p>
-                  Introduction: "Forec trading holds the promise of financial
+                  Introduction: "Forex trading holds the promise of financial
                   freedom, where astute traders navigate market trends to unlock
                   a world of profit-making opportunities".- Unknown in the vast
                   landscape of financial markets, the forex market stands out as
-                  a dynamic and captivating arenafor individuals seeking to grow
-                  their wealth with it's immense liquidity and global
+                  a dynamic and captivating arena for individuals seeking to
+                  grow their wealth with it's immense liquidity and global
                   accessibility.
                 </p>
               </div>
